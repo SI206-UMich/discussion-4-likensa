@@ -7,6 +7,9 @@ class Rectangle():
 
     # YOUR CODE HERE
 
+    def __init__(self, width, height):
+        self.width = width
+        self.height = height
 
 
     # Create the "__str__" method
@@ -25,7 +28,7 @@ class Rectangle():
     #       False otherwise
 
     # YOUR CODE HERE
-
+    random = 3
 
 
     # Create the "area" method
